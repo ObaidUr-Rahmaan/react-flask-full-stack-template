@@ -2,7 +2,7 @@
 
 - Connecting a React front-end with Flask api backend for full-stack web dev. :)
 
-Fork this repo to work on your own React + Flask projects :p
+Fork this repo to create your own React + Flask projects :p
 
 ## Deployment
 
