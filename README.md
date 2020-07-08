@@ -1,6 +1,8 @@
 ## Template React + Flask Test App
 
-Connecting a React front-end with Flask api backend for full-stack web dev. :)
+- Connecting a React front-end with Flask api backend for full-stack web dev. :)
+
+Fork this repo to work on your own React + Flask projects :p
 
 ## Deployment
 
