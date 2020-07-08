@@ -1,4 +1,4 @@
-## Template React + Flask Test App
+## Template React + Flask
 
 - Connecting a React front-end with Flask api backend for full-stack web dev. :)
 
